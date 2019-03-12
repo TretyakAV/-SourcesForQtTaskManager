@@ -1,0 +1,2 @@
+# -SourcesForQtTaskManager
+Наброски для QtTaskManager
